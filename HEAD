@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 1ad4bd32904d29e114530a98dc125d9af9be86cc mani031106-crypto <mani031106@gmail.com> 1789284188 +0530	commit (initial): Initial commit
+1ad4bd32904d29e114530a98dc125d9af9be86cc f0f6ae39ee01302546dde31b6dee887aeb1b63a5 mani031106-crypto <mani031106@gmail.com> 1790167833 +0530	commit: Add mutual fund NAV tracker and SIP XIRR calculator
+f0f6ae39ee01302546dde31b6dee887aeb1b63a5 c9f544362516558f47623df79eee01168ddccc63 mani031106-crypto <mani031106@gmail.com> 1790167910 +0530	pull --rebase github main (start): checkout c9f544362516558f47623df79eee01168ddccc63
+c9f544362516558f47623df79eee01168ddccc63 2a4c014cacbb8b66ebef6e56a361695e6cdae4f8 mani031106-crypto <mani031106@gmail.com> 1790167911 +0530	pull --rebase github main (pick): Add mutual fund NAV tracker and SIP XIRR calculator
+2a4c014cacbb8b66ebef6e56a361695e6cdae4f8 2a4c014cacbb8b66ebef6e56a361695e6cdae4f8 mani031106-crypto <mani031106@gmail.com> 1790167911 +0530	pull --rebase github main (finish): returning to refs/heads/main
+2a4c014cacbb8b66ebef6e56a361695e6cdae4f8 b60de19b7e8365ba54d860c38aefba44dcf37d5d mani031106-crypto <mani031106@gmail.com> 1790168206 +0530	commit: Remove old main.py
+b60de19b7e8365ba54d860c38aefba44dcf37d5d 3e5d417035799e62f54eb0a350ba3a7ac3f2599e mani031106-crypto <mani031106@gmail.com> 1793216712 +0530	commit: Initial commit
